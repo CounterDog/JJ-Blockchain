@@ -1,0 +1,8 @@
+# created git ignore to exclude all listed file extensions
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+.vs/
